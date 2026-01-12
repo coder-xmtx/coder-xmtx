@@ -5,3 +5,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coder-xmtx/coder-xmtx/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coder-xmtx/coder-xmtx/output/github-contribution-grid-snake.svg">
 </picture>
+
+## 💻 Skills
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,pr,python,vscode)
+
+## 📚 Learning ...
+
+![Learing](https://skillicons.dev/icons?i=vue,go,ae,godot,blender)
